@@ -1,8 +1,8 @@
-# *Survey of Consumer finance in 2019*
+# *Survey of Consumer Finance in 2019*
 
 ## Introduction
 
-The Survey of Consumer Finances (SCF) is normally a triennial cross-sectional survey of U.S. families. 
+The Survey of Consumer Finances (SCF) is a triennial cross-sectional survey of U.S. families. 
 
 The survey data include information on families' balance sheets, pensions, income, and demographic characteristics. 
 
@@ -17,12 +17,12 @@ Publisher Board of Governors of the Federal Reserve System Publication Year `201
 
 ## Project Idea
 
-Grouping each family accourading to given feature to enable us to determine the needs of each family 
+Grouping each family according to a given feature enables us to determine the needs of each family 
 
 
 ## Tools used
 
-1. Pandas , Numpy for Anaylsis
-2. matplotlib, seaborn, plotly for visualization
-3. scipy for mathmatical problems 
-4. Sci-kit learn for machine learning (clustering)
+1. `Pandas` , `Numpy` for Anaylsis
+2. `matplotlib`, `seaborn`, `plotly` for visualization
+3. `Scipy` for mathematical problems 
+4. `Sci-kit learn` for machine learning (clustering)
